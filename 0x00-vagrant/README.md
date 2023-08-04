@@ -1,1 +1,1 @@
-Vagrant is cool!
+linux
